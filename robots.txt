@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sebastianoogliari-hash.github.io/Next-Level-Marketing-real/
